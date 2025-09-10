@@ -1,0 +1,10 @@
+
+server:
+  port: 8888
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/user
+    username: postgres
+    password: 9567632a
+    driver-class-name: org.postgresql.Driver
